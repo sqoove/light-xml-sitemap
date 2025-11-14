@@ -2,7 +2,7 @@
 /**
  * The public-facing functionality of the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Light_XML_Sitemap
  * @subpackage Light_XML_Sitemap/public
@@ -12,7 +12,7 @@
  * Class `Light_XML_Sitemap_Public`
  * @package Light_XML_Sitemap
  * @subpackage Light_XML_Sitemap/public
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Light_XML_Sitemap_Public
 {

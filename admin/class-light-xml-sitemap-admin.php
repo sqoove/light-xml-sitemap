@@ -2,7 +2,7 @@
 /**
  * The admin-specific functionality of the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Light_XML_Sitemap
  * @subpackage Light_XML_Sitemap/admin
@@ -12,7 +12,7 @@
  * Class `Light_XML_Sitemap_Admin`
  * @package Light_XML_Sitemap
  * @subpackage Light_XML_Sitemap/admin
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Light_XML_Sitemap_Admin
 {

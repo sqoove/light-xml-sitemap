@@ -7,7 +7,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Light_XML_Sitemap
  *
@@ -16,8 +16,8 @@
  * Plugin URI: https://wordpress.org/plugins/light-xml-sitemap/
  * Description: Light-XML Sitemap dynamically creates dynamic XML Sitemap that comply with Google, Bing, Yahoo! and Ask.com Sitemap protocol.
  * Version: 2.3.0
- * Author: NeosLab
- * Author URI: https://neoslab.com
+ * Author: Sqoove
+ * Author URI: https://sqoove.com
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain: light-xml-sitemap

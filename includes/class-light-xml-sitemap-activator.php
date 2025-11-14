@@ -2,7 +2,7 @@
 /**
  * Fired during plugin activation
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Light_XML_Sitemap
@@ -15,7 +15,7 @@
  * @since 1.0.0
  * @package Light_XML_Sitemap
  * @subpackage Light_XML_Sitemap/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Light_XML_Sitemap_Activator
 {

@@ -5,7 +5,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Light_XML_Sitemap
@@ -19,7 +19,7 @@
  * @since 1.0.0
  * @package Light_XML_Sitemap
  * @subpackage Light_XML_Sitemap/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Light_XML_Sitemap_i18n
 {

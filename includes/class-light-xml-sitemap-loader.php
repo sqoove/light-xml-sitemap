@@ -2,7 +2,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Light_XML_Sitemap
@@ -13,7 +13,7 @@
  * Class `Light_XML_Sitemap_Loader`
  * @package Light_XML_Sitemap
  * @subpackage Light_XML_Sitemap/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Light_XML_Sitemap_Loader
 {
