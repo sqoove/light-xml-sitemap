@@ -5,21 +5,21 @@ if((isset($_GET['output'])) && ($_GET['output'] === 'updated'))
 }
 ?>
 <div class="wrap">
-    <section class="wpbnd-wrapper">
-        <div class="wpbnd-container">
-            <div class="wpbnd-tabs">
+    <section class="wpdx-wrapper">
+        <div class="wpdx-container">
+            <div class="wpdx-tabs">
                 <?php echo $this->return_plugin_header(); ?>
                 <main class="tabs-main">
                     <?php echo $this->return_tabs_menu('tab1'); ?>
                     <section class="tab-section">
                         <?php if(get_option('blog_public') != '1') { ?>
-                        <div class="wpbnd-notice wrong">
+                        <div class="wpdx-notice wrong">
                             <span class="close-btn" onclick="this.parentElement.style.display='none';">&times;</span>
                             <span><?php echo _e('Your current <b>Search engine visibility</b> is set to discourage search engines from indexing this site. In order for the sitemap to be displayed publicly you need to modify your <a href="'.get_admin_url().'options-reading.php">reading settings</a> now.', 'maintenance-work'); ?></span>
                         </div>
                         <?php } ?>
                         <?php if(isset($notice)) { ?>
-                        <div class="wpbnd-notice <?php echo esc_attr($notice[0]); ?>">
+                        <div class="wpdx-notice <?php echo esc_attr($notice[0]); ?>">
                             <span class="close-btn" onclick="this.parentElement.style.display='none';">&times;</span>
                             <span><?php echo esc_attr($notice[1]); ?></span>
                         </div>
@@ -27,7 +27,7 @@ if((isset($_GET['output'])) && ($_GET['output'] === 'updated'))
                         <form method="POST">
                             <input type="hidden" name="lxs-update-option" value="true" />
                             <?php wp_nonce_field('lxs-referer-form', 'lxs-referer-option'); ?>
-                            <div class="wpbnd-form">
+                            <div class="wpdx-form">
                                 <div class="field">
                                     <?php $fieldID = uniqid(); ?>
                                     <span class="label"><?php echo _e('Include Posts', 'light-xml-sitemap'); ?><span class="redmark">(<span>*</span>)</span></span>

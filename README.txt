@@ -2,8 +2,8 @@
 Contributors: Sqoove
 Tags: XML sitemap, wordpress sitemap, wordpress XML sitemap, sitemap, light XML sitemap
 Requires at least: 4.9
-Tested up to: 6.8.2
-Stable tag: 2.3.0
+Tested up to: 6.8.3
+Stable tag: 2.3.1
 License URI: https://raw.githubusercontent.com/sqoove/light-xml-sitemap/refs/heads/main/LICENSE
 
 Light-XML Sitemap dynamically creates dynamic XML Sitemap that comply with Google Sitemap protocol.
@@ -24,8 +24,12 @@ Light-XML Sitemap dynamically creates dynamic XML Sitemap that comply with Googl
 
 == Changelog ==
 
-= 2.3.0 (2025-05-08) =
+= 2.3.1 (2025-11-16) =
 * Added WPML support for page content
+* Code revision and optimization
+* Security and performance audit
+
+= 2.3.0 (2025-05-08) =
 * Code revision and optimization
 
 = 2.2.9 (2025-04-25) =
