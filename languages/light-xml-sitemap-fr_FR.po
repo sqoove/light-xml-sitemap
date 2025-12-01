@@ -104,7 +104,7 @@ msgstr "Saisissez le nom du plan de site"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:130
 msgid "Set an alternative name for the sitemap index (Leave empty to use the default: sitemap.xml)."
-msgstr "Définissez un nom alternatif pour l’index du plan de site (laissez vide pour utiliser le nom par défaut : sitemap.xml)."
+msgstr "Définissez un nom alternatif pour l'index du plan de site (laissez vide pour utiliser le nom par défaut : sitemap.xml)."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:133
 msgid "Update Settings"

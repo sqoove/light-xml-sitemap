@@ -104,7 +104,7 @@ msgstr "Inserisci il nome della mappa del sito"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:130
 msgid "Set an alternative name for the sitemap index (Leave empty to use the default: sitemap.xml)."
-msgstr "Imposta un nome alternativo per l’indice della mappa del sito (lascia vuoto per usare il predefinito: sitemap.xml)."
+msgstr "Imposta un nome alternativo per l'indice della mappa del sito (lascia vuoto per usare il predefinito: sitemap.xml)."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:133
 msgid "Update Settings"
